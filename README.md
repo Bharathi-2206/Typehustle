@@ -25,7 +25,7 @@ The TypeHustle is an interactive web application designed to measure your typing
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Bharathi-2206/TypeHustle.gi
+    git clone https://github.com/Bharathi-2206/TypeHustle.git
     ```
 
 2. Navigate to the project directory:
