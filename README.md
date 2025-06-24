@@ -25,7 +25,7 @@ The TypeHustle is an interactive web application designed to measure your typing
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/megh-bari/TypeHustle.git
+    git clone https://github.com/Bharathi-2206/TypeHustle.gi
     ```
 
 2. Navigate to the project directory:
@@ -46,11 +46,9 @@ The TypeHustle is an interactive web application designed to measure your typing
 Feel free to reach out with any questions or feedback:
 
 - **GitHub**: [megh-bari](https://github.com/megh-bari)
-- **Twitter**: [@megh_bari](https://x.com/megh_bari)
-- **Email**: [meghbari01@gmail.com](mailto:meghbari01@gmail.com).
 
 ## Author
 
-This repo is maintained by @Megh bari.
+This repo is maintained by @Bharathi-Lekireddy
 
 ## Happy Coding 🎈
