@@ -41,12 +41,6 @@ The TypeHustle is an interactive web application designed to measure your typing
 - CSS
 - JavaScript
 
-## Contact
-
-Feel free to reach out with any questions or feedback:
-
-- **GitHub**: [megh-bari](https://github.com/megh-bari)
-
 ## Author
 
 This repo is maintained by @Bharathi-Lekireddy
